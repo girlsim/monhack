@@ -1,0 +1,11 @@
+TODO
+for a0.1 release:
+- implement player
+- implement stats
+- implement basic combat
+- implement level changing
+
+for a0.2 release:
+- implement items
+- implement throwing+shooting
+- implement equipment
